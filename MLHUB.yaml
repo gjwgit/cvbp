@@ -3,11 +3,11 @@ meta:
   name         : cvbp
   title        : Computer vision best practices.
   keywords     : Computer vision, best practices, resnet
-  version      : 2.1.2
+  version      : 2.2.0
   languages    : python
   license      : mit
   author       : Graham.Williams@microsoft.com
-  url          : https://github.com/microsoft/cvbp
+  url          : https://github.com/gjwgit/cvbp
 dependencies:
   pip3:
     - torchvision
